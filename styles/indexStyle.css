@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.recipes {
+    background-color: yellow;
+}
+
+
